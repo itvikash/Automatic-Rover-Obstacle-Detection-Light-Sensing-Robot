@@ -62,5 +62,9 @@ The Arduino sketch (`rover_code.ino`) is included in this repository and handles
 
 Vikash Kumar — B.Tech, Electrical and Electronics Engineering (3rd Year)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
