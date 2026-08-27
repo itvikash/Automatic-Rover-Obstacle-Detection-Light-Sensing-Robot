@@ -2,7 +2,6 @@
 
 A four-wheel drive rover built with an Arduino Uno, combining automatic obstacle avoidance and ambient light sensing, with support for manual RC control.
 
-![Rover](26509.jpg)
 
 ## Description
 
@@ -29,8 +28,6 @@ This project is a four-wheeled automatic rover powered by an Arduino Uno. It use
 | RC Transmitter & Receiver (FlySky) | Manual control |
 
 ## Remote Control
-
-![RC Remote used to control the rover](26512.jpg)
 
 The rover can be driven manually using this RC transmitter/receiver setup, or left to run autonomously in obstacle-avoidance mode.
 
