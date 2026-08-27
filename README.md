@@ -1,5 +1,7 @@
 # Automatic Rover — Obstacle Detection & Light-Sensing Robot
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A four-wheel drive rover built with an Arduino Uno, combining automatic obstacle avoidance and ambient light sensing, with support for manual RC control.
 
 
